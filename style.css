@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+  margin:0;
+  padding:0;
+  background-color: black;
+} 
+/* styling the main heading */
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  margin:20px;
+  color: rgb(130, 190, 123);
+  text-align: center;
+}
+/* styling the sub headings */
+h2
+{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color:white;
+}
+/* (designing the paragraphs) */
+p
+{
+  font-family: 'Dancing Script', cursive;
+  margin:12px;
+  color:red;
+  font-size: 1.5em;
+}
+img{
+  width: 200px;
+}
